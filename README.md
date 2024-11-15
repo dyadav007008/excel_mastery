@@ -1,6 +1,6 @@
 # Excel Data Management & Formula Mastery
 
-## Data Management & Cleaning (Week 6)
+## Data Management & Cleaning
 
 ### 1. **Removing Duplicates**
 
